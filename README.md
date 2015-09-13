@@ -1,6 +1,6 @@
 # LightsOut
 Homework #5 - Hello GitHub!
 
-Author:    Adam 
+Author:    Adam Hammond
 
 Repo URL:  https://github.com/adamhammond/LightsOut.git
